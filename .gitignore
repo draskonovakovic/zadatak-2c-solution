@@ -1,0 +1,16 @@
+# Visual Studio related files
+.vs/
+*.user
+*.suo
+
+# Build output directories
+bin/
+obj/
+
+# Paket menadžer cache
+node_modules/
+*.log
+
+# Temporary files
+*.tmp
+*.vscode/
